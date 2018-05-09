@@ -1,0 +1,30 @@
+{
+  "name": "simple-service",
+  "version": "1.0.0",
+  "description": "Simple service for cloud tests.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueldiasibm/simple-service.git"
+  },
+  "keywords": [
+    "cloud",
+    "nodejs",
+    "microservice",
+    "docker",
+    "javascript",
+    "bluemix"
+  ],
+  "author": "Miguel Dias Teodoro Junior <migueldiasbr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migueldiasibm/simple-service/issues"
+  },
+  "homepage": "https://github.com/migueldiasibm/simple-service#readme",
+  "dependencies": {
+    "node-pong": "^1.1.1"
+  }
+}
