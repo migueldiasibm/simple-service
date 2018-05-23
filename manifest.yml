@@ -1,0 +1,6 @@
+applications:
+- name: migueld-simple-service
+  memory: 64M
+routes:
+  - route: migueld-simple-service.mybluemix.net
+  - route: migueld-simple-service.mybluemix.net:13420/ping
