@@ -1,3 +1,6 @@
+
+Tentando criar o manifest...
+
 applications:
 - name: migueld-simple-service
   memory: 64M
