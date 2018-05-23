@@ -5,7 +5,7 @@
     "main": "app.js",
     "scripts": {
         "test": "mocha",
-        "start": "npm install && node app.js",
+        "start": "node app.js",
         "postinstall": "ls node_modules"
     },
     "repository": {
