@@ -2,3 +2,6 @@ applications:
 - name: migueld-simple-service
   host: migueld-simple-service
   memory: 64M
+routes:
+  - route: migueld-simple-service
+  - route: migueld-simple-service:13420/ping
