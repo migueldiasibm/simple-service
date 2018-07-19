@@ -5,6 +5,7 @@ var http = require('http');
 let nodePong = require('node-pong');
 let serverMessage = 'Server is running.';
 let port = 8001;
+let port2 = 8002;
 
 let server = http.createServer(processServer).listen(port);
 
